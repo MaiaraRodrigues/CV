@@ -29,8 +29,12 @@ Trillingual Full Stack Software Developer recently graduated from [Makers Academ
 
 ## Tech Education
 
-**Makers Academy**
+#### Makers Academy (Sept'20 to Dec'20)
 
+- OOP, TDD, MVC, DDD
+- Agile/XP
+- Ruby, Rails, JavaScript
+- RSpec, Jasmine
 
 ## Skills
 
@@ -80,13 +84,6 @@ all closing administration at the end of day.
 
 ## Education
 
-#### Makers Academy (Sept'20 to Dec'20)
-
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
-
 #### College Gastao Vidigal (Jan'02 to Dec'04)
 
 Government of Brazil
@@ -95,10 +92,10 @@ Btec award, certificate and
 diploma level 2
 (equivalent to A levels)
 
-#### Cabin Crew Certificate 
+#### Cabin Crew Certificate (November 2011)
 
-Spanish Aviation
-November 2011
+- Spanish Aviation
+
 
 ## Hobbies && Interests
 
