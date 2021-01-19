@@ -1,25 +1,42 @@
-## Your Name
+<div align="center"><h1>Maiara Rodrigues</h1></br>
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+
+Trillingual Full Stack Software Developer recently graduated from Makers Academy.
+
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+[**Why Leave?**](https://github.com/timcastillogill/Why_Leave_Front_End) | An interactive map to inform people about conflicts, traumas and sociopolitical issues occurring in unrepresented, marginalised nations and countries. <br><br>Final group project at Makers Academy<br><br>Frontend repo [here](https://github.com/timcastillogill/Why_Leave_Front_End) <br>Backend API repo [here](https://github.com/Joshuamac2/Why-leave-backend) <br>Deployed app [here](https://why-leave.vercel.app/) | <span style="color:orange">**Languages & Frameworks:**<br>React, Cypress, Ruby on Rails, Rspec, CSS and Bootstrap<br><br>**Integration & Deployment Tools:** <br>Heroku, Vercel, Travis CI  |</span>
+[**Bank Tech Test**](https://github.com/MaiaraRodrigues/bank-tech-test.git) | Bank program that allows user to make transactions such as deposits, withdrawals and see and print the balance. | **Languages and Frameworks:**<br> Ruby, Rspec</br>
+
 
 ## Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Aspers Casino** (Nov'15 to Sept'20)   
+_Valet_
 
-- Any experience relevent to software development
+- Training and coaching new team
+members.
+- Taking orders and delivering food and
+beverage to customers, ensuring a great
+customer experience.
+- Use of in house mycros system and
+handling payments.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Movistar(O2)** (Oct'14 to Nov'15)  
+_Store Manager & Sales assistant_
 
-- Any experience relevent to software development
+-Managed a team of 6 members ensuring
+all my staff were fully trained and happy
+within their role.
+- Dealing with customer service enquiries
+and front-line complaints.
+- Making sure the appropriate procedures
+were followed.
+- Responsible forthe balancing of tills and
+all closing administration at the end of day.
 
 ## Skills
 
@@ -42,23 +59,29 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Sept'20 to Dec'20)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### College Gastao Vidigal (Jan'02 to Dec'04)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+Government of Brazil
+January 2002 - December 2004
+Btec award, certificate and
+diploma level 2
+(equivalent to A levels)
 
-#### Any other qualifications
+#### Cabin Crew Certificate 
 
-That in some arguable way make you a better software developer or well-rounded person
+Spanish Aviation
+November 2011
 
-## Hobbies
+## Hobbies && Interests
 
-Any cool stuff that makes you a super part of a software development team
+- Aerial Yoga - I love hanging upside down
+- Boardgames - Seven wonders, Catan, Carcassone, Love Letter, Coup, Exploding Kittens, Codenames, I could be here all day 
+- Horse riding - They are my spirit animal 
+- Reading 
