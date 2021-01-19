@@ -1,4 +1,4 @@
-<div align="center"><h1>Maiara Rodrigues</h1></br>
+<div align="center"><h1>Maiara Rodrigues</h1></br></div>
 
 
 Trillingual Full Stack Software Developer recently graduated from Makers Academy.
