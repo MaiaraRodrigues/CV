@@ -15,7 +15,7 @@ Trillingual Full Stack Software Developer recently graduated from [Makers Academ
 [Skills ](#skills) |
 [Experience ](#experience) |
 [Education ](#education) |
-[Hobbies & Interests ](#hobbies_&_interests)
+[Hobbies & Interests ](#hobbies-&-interests)
 
 </div>
 
