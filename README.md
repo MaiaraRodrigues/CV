@@ -100,6 +100,6 @@ diploma level 2
 ## Hobbies & Interests
 
 - [Aerial Yoga](https://thehotyogaspot.com/blog/what-is-aerial-yoga-and-what-are-the-benefits) - I love hanging upside down
-- Boardgames - [Seven wonders](https://boardgamegeek.com/boardgame/68448/7-wonders), [Catan](https://boardgamegeek.com/boardgame/13/catan), [Carcassonne](https://boardgamegeek.com/boardgame/822/carcassonne), [Love Letter](https://boardgamegeek.com/boardgame/129622/love-letter), [Coup](https://boardgamegeek.com/boardgame/131357/coup), [Exploding Kittens](https://boardgamegeek.com/boardgame/172225/exploding-kittens), [Codenames](https://boardgamegeek.com/boardgame/178900/codenames), I could be here all day 
+- Boardgames - [Seven wonders](https://boardgamegeek.com/boardgame/68448/7-wonders), [Catan](https://boardgamegeek.com/boardgame/13/catan), [Carcassonne](https://boardgamegeek.com/boardgame/822/carcassonne), [Love Letter](https://boardgamegeek.com/boardgame/129622/love-letter), [Coup](https://boardgamegeek.com/boardgame/131357/coup), [Exploding Kittens](https://boardgamegeek.com/boardgame/172225/exploding-kittens), [Codenames](https://boardgamegeek.com/boardgame/178900/codenames)
 - Horse riding - They are my spirit animal 
 - Reading - [This](https://en.wikipedia.org/wiki/Choke_(novel)) is my favourite "classic"
