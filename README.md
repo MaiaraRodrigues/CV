@@ -72,7 +72,7 @@ handling payments.
 _Store Manager & Sales assistant_
 
 - Managed a team of 6 members ensuring
-all my staff were fully trained and happy
+all staff were fully trained and happy
 within their role.
 - Dealing with customer service enquiries
 and front-line complaints.
