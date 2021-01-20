@@ -1,12 +1,12 @@
 <div align="center"><h1> Maiara Rodrigues </h1> </br>
 
 
-Trillingual Full Stack Software Developer recently graduated from [Makers Academy](https://makers.tech/)</div>
+
 <p align="center">
 <a href="https://www.linkedin.com/in/maiara-rdrigues/">
 <img src="https://www.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
 
-
+Trillingual Full Stack Software Developer recently graduated from [Makers Academy](https://makers.tech/)</div>
 <div align="center">
 
 
