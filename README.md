@@ -3,7 +3,7 @@
 
 Trillingual Full Stack Software Developer recently graduated from [Makers Academy](https://makers.tech/)</div>
 <p align="center">
-<a href="https://www.https://www.linkedin.com/in/maiara-rdrigues/">
+<a href="https://https://www.linkedin.com/in/maiara-rdrigues/">
 <img src="https://www.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
 
 
@@ -101,5 +101,5 @@ diploma level 2
 
 - [Aerial Yoga](https://thehotyogaspot.com/blog/what-is-aerial-yoga-and-what-are-the-benefits) - I love hanging upside down
 - Boardgames - [Seven wonders](https://boardgamegeek.com/boardgame/68448/7-wonders), [Catan](https://boardgamegeek.com/boardgame/13/catan), [Carcassonne](https://boardgamegeek.com/boardgame/822/carcassonne), [Love Letter](https://boardgamegeek.com/boardgame/129622/love-letter), [Coup](https://boardgamegeek.com/boardgame/131357/coup), [Exploding Kittens](https://boardgamegeek.com/boardgame/172225/exploding-kittens), [Codenames](https://boardgamegeek.com/boardgame/178900/codenames), I could be here all day 
-- Horse riding - They are my spirit animal :racehorse:
+- Horse riding - They are my spirit animal 
 - Reading - [This](https://en.wikipedia.org/wiki/Choke_(novel)) is my favourite "classic"
