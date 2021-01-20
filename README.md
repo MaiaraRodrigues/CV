@@ -31,29 +31,34 @@ Trillingual Full Stack Software Developer recently graduated from [Makers Academ
 
 #### Makers Academy (Sept'20 to Dec'20)
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+In the 16 weeks at Makers, I had the opportunity to learn and apply best practice in Software Design. The focus was on learning skills rather than techniques, and therefore I have been trained in OOP, TDD, SRP and BDD principles. Thanks to the imprinting received, I am committed to TDD and to the idea of crafting software that is clean, readable, maintainable. I learned to work by XP Values and follow Agile processes. During the course I built projects using:
+
+- Languages: Ruby, Javascript, SQL, jQuery, React
+- Frameworks: Rails
+- Testing Frameworks: RSpec, Jasmine, Mocha/Chai, Capybara
+- ORM:  PostgreSql
+- HTML, CSS
+- Deployment: Heroku, Travis CI
+- Version control via Github 
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+#### Communication 
 
-#### This Skill
+I love to communicate with others so much so that I learnt two new human languages from scratch, just so I could talk more. While working in hospitality and telecommunications I acquired great communication skills, handling customer service enquiries and surrounded by a team. 
+A standard day at Makers included afternoons of pair-programming where I would enjoy working asking many questions and requesting feedback so I am able to continue to grow and develop as a programmer.
 
-- Experience
-- Achievements
-- Evidence
+#### Problem-solving
 
-#### Another Skill
+#### Self-Learning 
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+At age 5 I taught myself to read and since then I have never stopped looking for opportunities to continue growing, learning, and improving. I changed professions drasticaly more than once because I knew I would be able to teach myself something new. Makers Academy has shown me that I have the ability to pick up new technologies quickly to a high level within a short space of time. I am very curious and creative, currently I am leaning UX/UI principles. 
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+
+#### Team-work 
+
+At Makers I looked foward to the team projects where everyone would share their ideas and we would plan a project together. Today I can say I made friends from my cohort that I will have for life. One of the main selling points of coding for me is that development is a process which holds team work at its heart.I am looking to join a supportive team, in a role that would both challenge me and allow me to grow. 
+
 
 ## Experience
 
@@ -68,7 +73,16 @@ customer experience.
 - Use of in house mycros system and
 handling payments.
 
-**Movistar(O2)** (Oct'14 to Nov'15)  
+**Bar Salento & Holiday Inn** (Oct'14 to Nov'15)
+_Head Bartender_
+
+- Setting up of a new organizational process between the Kitchen, Bar and Floor
+- Opening and closing the bar
+- Answering phone calls with requests from customers
+- Supervising my team
+
+
+**Movistar(O2)** (Jan'09 to Nov'13)  
 _Store Manager & Sales assistant_
 
 - Managed a team of 6 members ensuring
