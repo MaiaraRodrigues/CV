@@ -48,7 +48,6 @@ In the 16 weeks at Makers, I had the opportunity to learn and apply best practic
 I love to communicate with others so much so that I learnt two new human languages from scratch, just so I could talk more. While working in hospitality and telecommunications I acquired great communication skills, handling customer service enquiries and surrounded by a team. 
 A standard day at Makers included afternoons of pair-programming where I would enjoy working asking many questions and requesting feedback so I am able to continue to grow and develop as a programmer.
 
-#### Problem-solving
 
 #### Self-Learning 
 
@@ -59,6 +58,7 @@ At age 5 I taught myself to read and since then I have never stopped looking for
 
 At Makers I looked foward to the team projects where everyone would share their ideas and we would plan a project together. Today I can say I made friends from my cohort that I will have for life. One of the main selling points of coding for me is that development is a process which holds team work at its heart.I am looking to join a supportive team, in a role that would both challenge me and allow me to grow. 
 
+#### Problem-solving
 
 ## Experience
 
