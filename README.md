@@ -78,7 +78,7 @@ within their role.
 and front-line complaints.
 - Making sure the appropriate procedures
 were followed.
-- Responsible forthe balancing of tills and
+- Responsible for the balancing of tills and
 all closing administration at the end of day.
 
 
