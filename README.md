@@ -45,20 +45,24 @@ In the 16 weeks at Makers, I had the opportunity to learn and apply best practic
 
 #### Communication 
 
-I love to communicate with others so much so that I learnt two new human languages from scratch, just so I could talk more. While working in hospitality and telecommunications I acquired great communication skills, handling customer service enquiries and surrounded by a team. 
-A standard day at Makers included afternoons of pair-programming where I would enjoy working asking many questions and requesting feedback so I am able to continue to grow and develop as a programmer.
+I love to communicate with others so much so that I learnt two new human languages from scratch, just so I could talk more. While working in telecommunications and hospitality I acquired great communication skills, surrounded by a team and handling customer service enquiries. 
+A standard day at Makers included afternoons of pair-programming where I would enjoy working asking questions and requesting feedback, so I am able to continue to grow and develop as a programmer.
 
 
 #### Self-Learning 
 
-At age 5 I taught myself to read and since then I have never stopped looking for opportunities to continue growing, learning, and improving. I changed professions drasticaly more than once because I knew I would be able to teach myself something new. Makers Academy has shown me that I have the ability to pick up new technologies quickly to a high level within a short space of time. I am very curious and creative, currently I am leaning UX/UI principles. 
+At age 4 I learn to read and since then I have never stopped looking for opportunities to continue growing, learning, and improving. I changed professions drasticaly because I knew I would be able to teach myself something new. Makers Academy has shown me that I have the ability to pick up new technologies quickly to a high level and within a short space of time. I am very curious and creative, currently I am leaning UX/UI principles. 
 
 
 #### Team-work 
 
-At Makers I looked foward to the team projects where everyone would share their ideas and we would plan a project together. Today I can say I made friends from my cohort that I will have for life. One of the main selling points of coding for me is that development is a process which holds team work at its heart.I am looking to join a supportive team, in a role that would both challenge me and allow me to grow. 
+At Makers I looked foward to the team projects where everyone would share their ideas and we would plan a project together. Today I can say I made friends from my cohort that I will have for life. One of the main selling points of coding for me is that development is a process which holds team work at its heart. I am looking to join a supportive team, in a role that would both challenge me and allow me to grow. 
 
 #### Problem-solving
+
+Moving countries twice and learning everything again gave me the determination to solve any problem I could encounter. I did a lot of research and planning before deciding to change my career and life, and I apply this to tech problems. Working with telecomunications and technology in the past helped me to see problems from different perspectives and try new solutions. I have great attention to detail and I am very resilient, with that and creativity there is no problem that can get on my way. 
+“Every problem is a gift. Without them we wouldn’t grow” – Tony Robbins
+
 
 ## Experience
 
