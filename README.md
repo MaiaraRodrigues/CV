@@ -57,12 +57,12 @@ A standard day at Makers included afternoons of pair-programming where I would e
 
 #### Self-Learning 
 
-At age 4 I learn to read and since then I have never stopped looking for opportunities to continue growing, learning, and improving. I changed professions drasticaly because I knew I would be able to teach myself something new. Makers Academy has shown me that I have the ability to pick up new technologies quickly to a high level and within a short space of time. I am very curious and creative, currently I am leaning UX/UI principles. 
+At age 4 I learn to read and since then I have never stopped looking for opportunities to continue growing, learning, and improving. I changed professions drastically because I knew I would be able to teach myself something new. Makers Academy has shown me that I have the ability to pick up new technologies quickly to a high level and within a short space of time. I am very curious and creative, currently I am learning UX/UI principles. 
 
 
 #### Team-work 
 
-At Makers I looked foward to the team projects where everyone would share their ideas and we would plan a project together. Today I can say I made friends from my cohort that I will have for life. One of the main selling points of coding for me is that development is a process which holds team work at its heart. I am looking to join a supportive team, in a role that would both challenge me and allow me to grow. 
+At Makers I looked foward to the team projects where everyone would share their ideas and we would plan a project together. Today I can say I made friends from my cohort that I will have for life. One of the main selling points of coding for me is that development is a process which holds team work at its heart. I am looking to join a supportive team, in a role that would both challenge me and allows me to grow. 
 
 #### Problem-solving
 
