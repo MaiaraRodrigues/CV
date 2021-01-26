@@ -5,6 +5,8 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/maiara-rdrigues/">
 <img src="https://www.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
+  
+  
 Welcome to the new chapter of my life! 
 I am a deeply curious, adaptable and trillingual **Full Stack Software Developer** recently graduated from [Makers Academy](https://makers.tech/). 
 I am passionate about challenging myself learning new things and bringing new ideas into projects. Eager to start a new role where I can consolidate and extend my programming knowledge, aligning with a team that values feedback, communication and inclusivity as well as continual growth. 
