@@ -83,7 +83,7 @@ customer experience.
 - Use of in house mycros system and
 handling payments.
 
-**Bar Salento & Holiday Inn** (Oct'14 to Nov'15)
+**Bar Salento & Holiday Inn** (Oct'14 to Nov'15)     
 _Head Bartender_
 
 - Setting up of a new organizational process between the Kitchen, Bar and Floor
