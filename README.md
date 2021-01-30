@@ -77,7 +77,7 @@ _Valet_
 
 - Training and coaching new team
 members.
-- Taking orders and delivering food and
+- Attention to detail when taking orders and delivering food and
 beverage to customers, ensuring a great
 customer experience.
 - Use of in house mycros system and
@@ -111,8 +111,7 @@ all closing administration at the end of day.
 #### College Gastao Vidigal (Jan'02 to Dec'04)
 
 Government of Brazil
-Btec award, certificate and
-diploma level 2
+Btec award, certificate and diploma level 2
 (equivalent to A levels)
 
 #### Cabin Crew Certificate (November 2011)
