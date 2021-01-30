@@ -111,7 +111,6 @@ all closing administration at the end of day.
 #### College Gastao Vidigal (Jan'02 to Dec'04)
 
 Government of Brazil
-January 2002 - December 2004
 Btec award, certificate and
 diploma level 2
 (equivalent to A levels)
