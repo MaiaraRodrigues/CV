@@ -10,7 +10,7 @@
 Welcome to the new season of my life! 
 
 I am a deeply curious, adaptable and trilingual **Software Developer**, recently graduated from [Makers Academy](https://makers.tech/). 
-I am passionate about challenging myself learning new things and bringing new ideas into projects. Eager to start a new role where I can consolidate and extend my programming knowledge, aligning with a team that values feedback, communication and inclusivity, as well as continual growth. 
+I am passionate about challenging myself, learning new things and bringing new ideas into projects. Eager to start a new role where I can consolidate and extend my programming knowledge, aligning with a team that values feedback, communication and inclusivity, as well as continual growth. 
 During my Makers journey I had the opportunity of developing my programming skills, learning the best practices of software engineering and enjoying being part of a team where I made friends for life. </div>
 
 <div align="center">
@@ -39,7 +39,7 @@ During my Makers journey I had the opportunity of developing my programming skil
 
 In the 16 weeks at Makers, I had the opportunity to learn and apply best practice in Software Design. The focus was on learning skills rather than techniques, and therefore I have been trained in OOP, TDD, SRP and BDD principles. Thanks to the imprinting received, I am committed to TDD and to the idea of crafting software that is clean, readable, maintainable. I learned to work by XP Values and follow Agile processes. During the course I built projects using:
 
-- Languages: Ruby, Javascript, SQL, jQuery, React
+- Languages: Ruby, Javascript, SQL, JQuery, React
 - Frameworks: Rails
 - Testing Frameworks: RSpec, Jasmine, Mocha/Chai, Capybara
 - ORM:  PostgreSql
@@ -62,11 +62,11 @@ At age 4 I learn to read and since then I have never stopped looking for opportu
 
 #### Team-work 
 
-At Makers I looked foward to the team projects where everyone would share their ideas and we would plan a project together. Today I can say I made friends from my cohort that I will have for life. One of the main selling points of coding for me is that development is a process which holds team work at its heart. I am looking to join a supportive team, in a role that would both challenge me and allows me to grow. 
+At Makers I looked forward to the team projects where everyone would share their ideas and we would plan a project together. Today I can say I made friends from my cohort that I will have for life. One of the main selling points of coding for me is that development is a process which holds teamwork at its heart. I am looking to join a supportive team, in a role that would both challenge me and allow me to grow. 
 
 #### Problem-solving
 
-Moving countries twice and learning everything again gave me the determination to solve any problem I could encounter. I did a lot of research and planning before deciding to change my career and life, and I apply this to tech problems. Working with telecomunications and technology in the past helped me to see problems from different perspectives and try new solutions. I have great attention to detail and I am very resilient, with that and creativity there is no problem that can get on my way. 
+Moving countries twice and learning everything again gave me the determination to solve any problem I encounter. I did a lot of research and planning before deciding to change my career and life, and I apply this to tech problems. Working with telecommunications and technology in the past helped me to see problems from different perspectives and try new solutions. I have great attention to detail and I am very resilient, with that and creativity there is no problem that can get in my way. 
 “Every problem is a gift. Without them we wouldn’t grow” – Tony Robbins
 
 
@@ -110,14 +110,15 @@ all closing administration at the end of day.
 
 #### College Gastao Vidigal (Jan'02 to Dec'04)
 
-Government of Brazil             
-Btec award, certificate and diploma level 2
-(equivalent to A levels)
+BTEC Certificate Level 2 in (equivalent to GCSEs)
 
 #### Cabin Crew Certificate (November 2011)
 
-- Spanish Aviation
+Spanish Aviation
 
+#### Languages
+
+I am fluent in English, Spanish and Portuguese
 
 ## Hobbies & Interests
 
