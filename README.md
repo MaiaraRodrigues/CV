@@ -93,9 +93,9 @@ _Head Bartender_
 
 
 **Movistar(O2)** (Jan'09 to Nov'13)  
-_Store Manager & Sales assistant_
+_Store Manager & Sales associate_
 
-- Managed a team of 6 members ensuring
+- Managing a team of six members ensuring
 all staff were fully trained and happy
 within their role.
 - Dealing with customer service enquiries
@@ -105,6 +105,13 @@ were followed.
 - Responsible for the balancing of tills and
 all closing administration at the end of day.
 
+**Vodafone** (July'07 to Jan'09)   
+_Sales Associate_
+
+- Problem solving and assisting customers with troubleshooting, billing and payments.
+- Multitasking across multiple platforms while talking to customers.
+- Consistently delivering a first class experience to all customers. Keeping updated on new products and services to be able to advise customers accordingly.
+- Training on new technologies and hardware.
 
 ## Education
 
