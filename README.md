@@ -31,8 +31,10 @@ During my Makers journey I had the opportunity of developing my programming skil
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 [**Why Leave?**](https://github.com/timcastillogill/Why_Leave_Front_End) | An interactive map to inform people about conflicts, traumas and sociopolitical issues occurring in unrepresented, marginalised nations and countries. <br><br>Final group project at Makers Academy<br><br>Frontend repo [here](https://github.com/MaiaraRodrigues/Why_Leave_Front_End) <br>Backend API repo [here](https://github.com/MaiaraRodrigues/Why-leave-backend) <br>Deployed app [here](https://why-leave.vercel.app/) | <span style="color:orange">**Languages & Frameworks:**<br>React, Cypress, Ruby on Rails, Rspec, CSS and Bootstrap<br><br>**Integration & Deployment Tools:** <br>Heroku, Vercel, Travis CI  |</span>
-[**Thermostat**](https://github.com/MaiaraRodrigues/Thermostat)| Bank program that allows user to make transactions such as deposits, withdrawals and see and print the balance. | **Languages and Frameworks:**<br> Ruby, Rspec</br>
-[**Bank Tech Test**](https://github.com/MaiaraRodrigues/bank-tech-test.git) | Thermostat app that allows users to change and reset temperature and connects to weather API to fetch current temperature on different cities. | **Languages and Frameworks:**<br> Javascript, Jasmine</br>
+[**Thermostat**](https://github.com/MaiaraRodrigues/Thermostat)| Thermostat app that allows users to change and reset temperature and connects to weather API to fetch current temperature on different cities. | **Languages and Frameworks:**<br> Javascript, Jasmine</br>
+[**Bank Tech Test**](https://github.com/MaiaraRodrigues/bank-tech-test.git) | Bank program that allows user to make transactions such as deposits, withdrawals and see and print the balance. | **Languages and Frameworks:**<br> Ruby, Rspec</br>
+[**Maiara Rodrigues Portfolio Website**](https://maiararodrigues.com/) | My Portfolio Website. | **Languages and Frameworks:**<br> Javascript, HTML, CSS</br>
+
 
 
 
